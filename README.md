@@ -18,4 +18,5 @@ Basic Operations API is a lightweight FastAPI-based REST API for addition, multi
 # Process to Run the API
 1) Clone the Repo
 2) Open the Project in the IDE
-3) run the terminal with the following cmd: uvicorn main:app --reload
+3) Install the Requirements.txt
+4) run the terminal with the following cmd: **uvicorn main:app --reload**
